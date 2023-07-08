@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">FavoriteRecipe</string>
+
+    <string-array name="food">
+        <item> Poultry </item>
+        <item> Seafood </item>
+        <item> Vegetarian </item>
+        <item> Vegan </item>
+        <item> Italian </item>
+
+    </string-array>
+</resources>
